@@ -3,6 +3,7 @@ An object-oriented, Free BASIC library used to create GUI programs.
 
 # Version 1.1 is Officially Released. (Saturday 26th November, 2016)
 Now with support for Unicode and a few other goodies (check out the documentation for more!), hopefully this library is getting closer to becoming more relevant to your programming needs!
+For the manifest file and examples, please look at the first version's folder!
 
 # Version 1.0 is Officially Released. (Thursday 24th November, 2016)
 It has the following features:<br>

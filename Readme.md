@@ -1,5 +1,5 @@
 # Objective-GUI-Library
-An object-oriented, Free BASIC library used to create GUI programs.
+An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
 # Version 1.1 is Officially Released. (Saturday 26th November, 2016)
 Now with support for Unicode and a few other goodies (check out the documentation for more!), hopefully this library is getting closer to becoming more relevant to your programming needs!<br>

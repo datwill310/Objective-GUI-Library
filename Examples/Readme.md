@@ -1,0 +1,1 @@
+Notice: this folder was created for the examples of the future release of verison 2.0 and all the future releases. If you're looking for examples for version 1.x, please look at the folders for 1.0 and 1.1 in the previous folder.

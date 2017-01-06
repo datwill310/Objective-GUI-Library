@@ -2,7 +2,7 @@
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
 # All Versions of the OGL are Now Released Under the 3-Clause BSD License. (Friday 6th January, 2017)
-Please familiarise yourself with the License.md file. All textual files (not including the Doc) will be licensed under the 3-Clause BSD. References will be provided in each file in this repository.<br>
+Please familiarise yourself with the License.md file. All textual files (including the doc and images, but NOT the XML files) will be licensed under the 3-Clause BSD. References will be provided in each file in this repository.<br>
 The 2.x series will also be released under this license. The OGL is not dead but is still under major development.
 Thanks for your time and support.
 

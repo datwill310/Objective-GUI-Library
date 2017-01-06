@@ -1,6 +1,11 @@
 # Objective-GUI-Library
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
+# All Versions of the OGL are Now Released Under the 3-Clause BSD License. (Friday 6th January, 2017)
+Please familiarise yourself with the License.md file. All textual files (not including the Doc) will be licensed under the 3-Clause BSD. References will be provided in each file in this repository.
+The 2.x series will also be released under this license. The OGL is not dead but is still under major development.
+Thanks for your time and support.
+
 # Version 1.1 is Officially Released. (Saturday 26th November, 2016)
 Now with support for Unicode and a few other goodies (check out the documentation for more!), hopefully this library is getting closer to becoming more relevant to your programming needs!<br>
 For the manifest file and examples, please look at the first version's folder!<br>

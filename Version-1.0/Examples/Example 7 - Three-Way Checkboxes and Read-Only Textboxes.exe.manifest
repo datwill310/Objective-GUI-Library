@@ -1,3 +1,10 @@
+<!-- Licensing
+Please read License.md. However:
+This document is one I found somehwere on the
+internet and therefore I cannot claim this file to be mine. This file can
+be used in whatever way you like: you don't have to say it is mine and I
+please ask you to not do so. This file is free for all.
+-->
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <assemblyIdentity

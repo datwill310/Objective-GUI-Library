@@ -1,4 +1,4 @@
-# Objective-GUI-Library
+# Objective GUI Library (OGL)
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
 # All Versions of the OGL are Now Released Under the 3-Clause BSD License. (Friday 6th January, 2017)

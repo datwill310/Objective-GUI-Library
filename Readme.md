@@ -1,6 +1,19 @@
 # Objective GUI Library (OGL)
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
+# Version 2.0 is Officially Released! (Sunday 15th January, 2017)
+Version 2.0 is officially released!
+
+It's changed a lot from the 1.x series. I've updated the examples, the doc, and, of course, the header file :wink:!
+
+Dynamic font amendment has been fixed. New tutorials. A new interface, which will make it even easier to extend the OGL, as well as use it!
+
+A full list of what this new version can do can be found at the Version Log. Many tiny details will be fixed in the course of the next few hours.
+
+Unfortunately, no Wishlist item has yet been implemented (oh, expect a few more entries here as well!). But for 2.1, I intend to implement High-DPI aware features, along with a few other bug fixes.
+
+I hope you enjoy this new re-write of the OGL!
+
 # Now Prepareing For the Release of 2.0! (Sunday 15th January, 2017)
 The repository will change dramatically over the cause of the next couple of days. This is because I'm preparing for the new release of the 2.0 version of the OGL!
 

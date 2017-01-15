@@ -1,6 +1,15 @@
 # Objective GUI Library (OGL)
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
+# Now Prepareing For the Release of 2.0! (Sunday 15th January, 2017)
+The repository will change dramatically over the cause of the next couple of days. This is because I'm preparing for the new release of the 2.0 version of the OGL!
+
+The 1.x series will be moved to the new folder OGL.old. While the OGL2.0 is unreleased, you can find the current version of the OGL within this folder.
+
+Thank you for your support! Version 2.0 is right around the corner!
+
+Check the forum post for the latest updates!
+
 # All Versions of the OGL are Now Released Under the 3-Clause BSD License. (Friday 6th January, 2017)
 Please familiarise yourself with the License.md file. All textual files (including the doc and images, but NOT the XML files) will be licensed under the 3-Clause BSD. References will be provided in each file in this repository.<br>
 The 2.x series will also be released under this license. The OGL is not dead but is still under major development.

@@ -1,0 +1,8 @@
+Everything has its requirements, and the OGL is not any different. In order to use the library, you must have the following:
+
+1. **You must use a 32- or 64-bit version of the Windows Operating System** (WINE on Linux?). Since it uses the Windows API, the library is only for Windows, and since the FreeBASIC compiler can only run on 32 or 64-bit versions of Windows, nothing below 32-bit will work. 
+2. **You must be using the FreeBASIC language**. Any version above **1.04.0** should work (though the OGL was programmed using version **1.05.0** and no tests have been made for versions below this). **Versions below 1.04.0 will not work** with the OGL: one of the reasons is that it uses the new boolean datatype, which is defined in 1.04.0 - you'll have to make changes. 
+3. **You must be using the fb dialect**. This library will only work with this dialect set.
+4. British English is used in the documentation and comments of the header file, but I tried my best to use American English for the code. 
+5. **The OGL is not finished!** I plan to include a wealth more to the OGL: such as CommonControl support, menu support, and a few more things like primary (and secondary etc.) monitor dimension retrieval, and making the OGL High-DPI Aware (as requested in the forum post). I am and will accept requests, but note that your request may not be immediately implemented, especially at such an early stage in the OGL's development. For a more detailed run-down of the list of possible components of the OGL, check out the Wishlist.md file in the repository. 
+6. You can find a copy of the **license** at License.md.

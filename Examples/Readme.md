@@ -1,1 +1,9 @@
-Notice: this folder was created for the examples of the future release of verison 2.0 and all the future releases. If you're looking for examples for version 1.x, please look at the folders for 1.0 and 1.1 in the previous folder.
+# Example Files
+
+This folder contains the latest examples released with the OGL.
+
+Any big fixes will simply be replaced with the buggy examples.
+
+Any substantial changes to examples means that the older example will be moved to OGL.old and the new one fills its place here.
+
+Also other resource files such as the manifest file and images are stored here.

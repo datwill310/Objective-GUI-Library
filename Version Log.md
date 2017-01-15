@@ -1,1 +1,1 @@
-This file will contain the version log of the OGL. However, I have yet to format this page correctly from the yet-to-be-released version 2.0's doc.
+This file will contain the version log of the OGL. However, I have yet to format this page correctly from the yet-to-be-released version 2.0's doc. This file will get regular updates and you will see this file getting pieced together over the next few days.

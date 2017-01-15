@@ -14,9 +14,10 @@ If a line is in *italic*, it signifies an improvement made to the library, made 
 # 2.x
 Here is the log for the 2.x series. Version history has started over again as it is a complete (and hopefully the ONLY) rewrite. It lists what it can do as of now: any updates will be listed separately.<br>
 Here's a few pointers as to what the new version we have!... Actually, it doesn't add much new to the old versions: this is simply the re-write, after all!
+
 **Version 2.0**
-A re-write of the OGL.
-It will support:
+
+A re-write of the OGL. It will support:
 + A 'main' window (the parent window). Multiple main windows are created using multiple instantiations of the GUIWIN class.
 + Child windows, which belong to the 'main' window. Child windows are internal instantiations of the GUIWIN class and are manipulated using the child property. Child windows themselves can have child windows.
 + The following child controls:

@@ -12,12 +12,11 @@ If a line is in *italic*, it signifies an improvement made to the library, made 
 **Note** : I will **not** include an improvement without express permission from the author/s, and I will definitely **not** *directly* incorporate an improvement made by somebody else **which is owned by them**, *which* must be under the appropriate license found at License.md.
 
 # 2.x
-Here is the log for the 2.x series. Version history has started over again as it is a complete (and hopefully the ONLY) rewrite. It lists what it can do as of now: any updates will be listed separately.<br>
-Here's a few pointers as to what the new version we have!... Actually, it doesn't add much new to the old versions: this is simply the re-write, after all!
+Here is the log for the 2.x series. Version history has started over again as it is a complete (and hopefully the ONLY) rewrite. It lists what it can do as of now: any updates will be listed separately.
 
 **Version 2.0**
 
-A re-write of the OGL. It will support:
+A re-write of the OGL. It supports:
 + A 'main' window (the parent window). Multiple main windows are created using multiple instantiations of the GUIWIN class.
 + Child windows, which belong to the 'main' window. Child windows are internal instantiations of the GUIWIN class and are manipulated using the child property. Child windows themselves can have child windows.
 + The following child controls:
@@ -34,7 +33,7 @@ A re-write of the OGL. It will support:
 + For technical details, please read the Requirements topic.
 
 # 1.x
-Here is the original log1 for the 1.x series:
+Here is the original log for the 1.x series:
 !! The OGL was not originally under any license. OGL1.x and all future versions are now under the 3-Clause BSD License. Please read the License.md file.
 
 **Version 1.1**

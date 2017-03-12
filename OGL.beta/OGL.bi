@@ -33,6 +33,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."'/
 /'notes:
 ACKNOWLEDGEMENTS
 Josep Roca, St_W, and PaulSquires for help with DPI aware functionality for the OGL.
+NOTES: a few more people will be in this list in the updated acknowledgments section
 additions:
 monitor() function
 monitorw
@@ -41,15 +42,8 @@ monitordpix
 monitordpiy
 GUIFONT.h_dpi
 GUIFONT.w_dpi
-dpi awareness features must be added for: controls and fonts
-x_set
-y_set
-w_set
-h_set
-allowin
-allochild
-GUIFONT
-'/
+dpi awareness features added for: windows and fonts
+all x, y and width and height dimensions.'/
 
 #include once "windows.bi"
 

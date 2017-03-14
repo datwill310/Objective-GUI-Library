@@ -1,7 +1,16 @@
 # Objective GUI Library (OGL)
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
-# Version 2.1b is Released (Sunday 12th March, 2017)
+# Preparing to Release 2.1. (Tuesday 14th March, 2017)
+I have decided to release 2.1 early. It has the following new features: basic DPI-awareness, some monitor methods (they are in the beta version!) and a few more x-&-y dimensional stuff, such as finding the central x and y of a window according to its owner/parent, and client dimension retrieval. Also another method not in the beta version which allows you to find the control index based on a handle given to it. At the moment, you can only do the other way around. I have found that this process can be helpful while I was programming something with the OGL :smile:!
+
+2.1 is not yet released, but you can test with the beta file in OGL.beta. Primarily, this is actually for me and anyone techy who wants to help. Beta versions shouldn't break your computer or anything: but they shouldn't be used for actual programs as they have not yet been validated as 100% working.
+
+2.1 will be released this week, including an updated doc file, including a tutorial about how High-DPI awareness is used in the OGL (shout out to the forum!).
+
+Sorry: unfortuneatly no CommonControl support yet :disappointed:. But I intend for version 2.2 support for ToolTips, and basic support for menus coming back to the OGL (the old support was mostly broken: you weren't missing anything).
+
+# Version 2.1b is Released. (Sunday 12th March, 2017)
 After a long time (sorry!), a beta version of the up and coming 2.1 version is out. Though it's not been fully validated yet, you can have a go and test the header file.
 
 This beta version contains a few High-DPI aware features. A list of new features will only be published once I officially release 2.1.
@@ -21,7 +30,7 @@ Unfortunately, no Wishlist item has yet been implemented (oh, expect a few more 
 
 I hope you enjoy this new re-write of the OGL!
 
-# Now Prepareing For the Release of 2.0! (Sunday 15th January, 2017)
+# Now Preparing For the Release of 2.0! (Sunday 15th January, 2017)
 The repository will change dramatically over the cause of the next couple of days. This is because I'm preparing for the new release of the 2.0 version of the OGL!
 
 The 1.x series will be moved to the new folder OGL.old. While the OGL2.0 is unreleased, you can find the current version of the OGL within this folder.

@@ -18,7 +18,7 @@ Here is the log for the 2.x series. Version history has started over again as it
 
 The actual header file is not yet released, but here is what you can look forward to!
 
-+ The OGL is now High-DPI aware! This means it automatically scales its windows and fonts according to the current DPI setting. However, the program requires the correct manifest in order to do this (see this tutorial). It can even scale according to individual monitors! However, this is NOT dynamic amendment: if you wish this, you will have to program this yourself. It does not respond to user change of DPI setting, but does respond to it if the user signs out/logs off.
+**+ The OGL is now High-DPI aware! This means it automatically scales its windows and fonts according to the current DPI setting. However, the program requires the correct manifest in order to do this (see this tutorial). It can even scale according to individual monitors! However, this is NOT dynamic amendment: if you wish this, you will have to program this yourself. It does not respond to user change of DPI setting, but does respond to it if the user signs out/logs off.**
 + Added monitor() function: retrieves the handle to the monitor with the 0-based count index: i.e. primary (default) = 0, secondary = 1, etc. Have not been able to test this yet, since I don't have >1 monitor, but it is definitely able to get the primary monitor's handle.
 + Added monitorw() and monitorh() functions. Self-explanatory.
 + Added monitordpix() and monitordpiy() functions. These get the current DPI setting in both the x and y direction. Usually equal.

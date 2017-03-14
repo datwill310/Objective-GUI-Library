@@ -5,4 +5,5 @@ I have not been alone in creating this library. For their help, suggestions, and
 - MrSwiss, for helping me optimise the waitevent() function and helping me with datatypes. 
 - MrSwiss, St_W, and figosdev, for helping me pick the right license for this library.
 - Lothar Schirm, for his excellent library WinAPI (I have used/learnt about uponclose() conditioning and font stuff from here, and have thought it appropriate to give credit). This library influenced the OGL.
+- Josep Roca, St_W, MrSwiss, and PaulSquires for help with DPI aware functionality for the OGL.
 - And all of you who have suggested improvements and have taken your time to look at my library! 

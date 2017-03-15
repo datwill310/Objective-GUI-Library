@@ -4,7 +4,7 @@ An object-oriented, Free BASIC library used to create GUI programs. [Forum post]
 # Version 2.1 is Officially Released! (Wednesday 15th March, 2017)
 2.1 adds more useful features: the most prominent being High-DPI Awareness. Monitor functions, window centralisation, client area dimension retrieval, and a few more low-level functions which aid those who work with the OGL in conjunction with the WinAPI set. A full list of additions can be found at the version log. Doc etc. coming out within the next few minutes of original update.
 
-I have also provided a Compatibility segment of each topic which lists what is and what is not on each version since 2.0. Actual topic smay come in the future.
+I have also provided a Compatibility segment of each topic which lists what is and what is not on each version since 2.0. Actual topics may come in the future.
 
 I hope you enjoy this update!
 

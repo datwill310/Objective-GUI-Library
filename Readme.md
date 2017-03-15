@@ -1,6 +1,13 @@
 # Objective GUI Library (OGL)
 An object-oriented, Free BASIC library used to create GUI programs. [Forum post](http://www.freebasic.net/forum/viewtopic.php?f=8&t=25207).
 
+# Version 2.1 is Officially Released! (Wednesday 15th March, 2017)
+2.1 adds more useful features: the most prominent being High-DPI Awareness. Monitor functions, window centralisation, client area dimension retrieval, and a few more low-level functions which aid those who work with the OGL in conjunction with the WinAPI set. A full list of additions can be found at the version log. Doc etc. coming out within the next few minutes of original update.
+
+I have also provided a Compatibility segment of each topic which lists what is and what is not on each version since 2.0. Actual topic smay come in the future.
+
+I hope you enjoy this update!
+
 # Preparing to Release 2.1. (Tuesday 14th March, 2017)
 I have decided to release 2.1 early. It has the following new features: basic DPI-awareness, some monitor methods (they are in the beta version!) and a few more x-&-y dimensional stuff, such as finding the central x and y of a window according to its owner/parent, and client dimension retrieval. Also another method not in the beta version which allows you to find the control index based on a handle given to it. At the moment, you can only do the other way around. I have found that this process can be helpful while I was programming something with the OGL :smile:!
 

@@ -1,9 +1,4 @@
-Notation:
-+ \+ Something has been added.
-+ \- Something has been removed.
-+ \* Something has been fixed.
-+ ! Something has been amended in a significant way. This is most likely a fix which has major implications.
-+ !! An important announcement which has nothing to do with the library itself but is important for the OGL series as a whole.
+Notation: wont work because of markdown :unamused: not even escaping works :sob:.
 
 If a line is in **bold**, it signifies that it was or was influenced by a request posted at the forum at Free BASIC (not necessarily the specific OGL topic, but all requests should be posted there as your request may not be seen!).<br>
 
@@ -18,14 +13,14 @@ Here is the log for the 2.x series. Version history has started over again as it
 
 The actual header file is not yet released, but here is what you can look forward to!
 
-**+ The OGL is now High-DPI aware! This means it automatically scales its windows and fonts according to the current DPI setting. However, the program requires the correct manifest in order to do this (see this tutorial). It can even scale according to individual monitors! However, this is NOT dynamic amendment: if you wish this, you will have to program this yourself. It does not respond to user change of DPI setting, but does respond to it if the user signs out/logs off.**
-\+ Added monitor() function: retrieves the handle to the monitor with the 0-based count index: i.e. primary (default) = 0, secondary = 1, etc. Have not been able to test this yet, since I don't have >1 monitor, but it is definitely able to get the primary monitor's handle.
-\+ Added monitorw() and monitorh() functions. Self-explanatory.
-\+ Added monitordpix() and monitordpiy() functions. These get the current DPI setting in both the x and y direction. Usually equal.
-\+ GUIFONT: added h_dpi and w_dpi properties. These scale a font according to DPI settings on a provided monitor.
-\+ Added x_center, y_center, x_center_set, y_center_set, and center_set functions. These center windows according to its parent or, in the case of the main window (if without a parent), the monitor most of it is on. The set variant functions actually set the window to the found co-ordinates.
-\+ Added w_client and h_client, which retrieve the dimensions of the main window's client area.
-\+ Added ctrlindex, cwinindex, and ctrltype properties. They work with the more "low-level" element of the OGL. They search the internal arrays to see if a provided handle is part of the GUIWIN object, and if it is, its control index is returned. This can also be done with child windows (child GUIWIN objects). ctrltype finds the type of control referenced to by a given control index.
+**The OGL is now High-DPI aware! This means it automatically scales its windows and fonts according to the current DPI setting. However, the program requires the correct manifest in order to do this (see this tutorial). It can even scale according to individual monitors! However, this is NOT dynamic amendment: if you wish this, you will have to program this yourself. It does not respond to user change of DPI setting, but does respond to it if the user signs out/logs off.**
+Added monitor() function: retrieves the handle to the monitor with the 0-based count index: i.e. primary (default) = 0, secondary = 1, etc. Have not been able to test this yet, since I don't have >1 monitor, but it is definitely able to get the primary monitor's handle.
+Added monitorw() and monitorh() functions. Self-explanatory.
+Added monitordpix() and monitordpiy() functions. These get the current DPI setting in both the x and y direction. Usually equal.
+GUIFONT: added h_dpi and w_dpi properties. These scale a font according to DPI settings on a provided monitor.
+Added x_center, y_center, x_center_set, y_center_set, and center_set functions. These center windows according to its parent or, in the case of the main window (if without a parent), the monitor most of it is on. The set variant functions actually set the window to the found co-ordinates.
+Added w_client and h_client, which retrieve the dimensions of the main window's client area.
+Added ctrlindex, cwinindex, and ctrltype properties. They work with the more "low-level" element of the OGL. They search the internal arrays to see if a provided handle is part of the GUIWIN object, and if it is, its control index is returned. This can also be done with child windows (child GUIWIN objects). ctrltype finds the type of control referenced to by a given control index.
 
 Wow: and at first, I thought this was a small update! But this is just the start! Main objectives of 2.2 include bringing back menus to the OGL, and ToolTip support: the debut of CommonControl support!
 
